@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "mads-hartmann.bash-ide-vscode",
+    "timonwong.shellcheck",
+    "Remisa.shellman",
+    "foxundermoon.shell-format",
+    "oderwat.indent-rainbow",
+    "jeff-hykin.better-shellscript-syntax",
+    "rpinski.shebang-snippets",
+    "zhuangtongfa.material-theme",
+    "vscode-icons-team.vscode-icons",
+    "streetsidesoftware.code-spell-checker",
+    "eamodio.gitlens"
+  ]
+}

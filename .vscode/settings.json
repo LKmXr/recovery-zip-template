@@ -1,0 +1,20 @@
+{
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.cursorStyle": "line",
+  "editor.linkedEditing": true,
+  "editor.tabSize": 2,
+  "explorer.compactFolders": false,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 100,
+  "files.associations": {
+    "*.sh": "shellscript",
+    "update-binary": "shellscript",
+    "updater-script": "shellscript"
+  },
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.preferredDarkColorTheme": "One Dark Pro",
+}

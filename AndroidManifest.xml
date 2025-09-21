@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:versionCode="10000"
+	android:versionName="1.0"
+	android:compileSdkVersion="35"
+	android:compileSdkVersionCodename="15"
+	package="io.github.lkmxr.stub"
+	platformBuildVersionCode="35"
+	platformBuildVersionName="15"
+	>
+	<uses-sdk
+		android:minSdkVersion="23"
+		android:targetSdkVersion="35"
+		>
+	</uses-sdk>
+	<application
+		android:label="Stub"
+		android:allowBackup="false"
+		android:supportsRtl="false"
+		android:multiArch="true"
+		android:extractNativeLibs="false"
+		android:requestLegacyExternalStorage="false"
+		>
+	</application>
+</manifest>

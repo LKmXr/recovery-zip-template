@@ -1,0 +1,16 @@
+{
+  "name": "recovery-zip-template",
+  "build": {
+    "dockerfile": "./Dockerfile"
+  },
+  "workspaceMount": "source=.,target=/project/workspace,type=bind",
+  "workspaceFolder": "/project/workspace",
+  "containerUser": "root",
+  "containerEnv": {
+    "ASH_STANDALONE": "1",
+    "CI": "0"
+  },
+  "features": {
+    "ghcr.io/codesandbox/devcontainer-features/codesandbox:latest": {}
+  }
+}
